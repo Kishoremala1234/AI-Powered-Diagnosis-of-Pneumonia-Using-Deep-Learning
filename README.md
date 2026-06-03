@@ -167,6 +167,18 @@ The trained model is stored in `.h5` format inside the `model/` folder.
 
 > Note: The trained `.h5` model file and dataset are ignored from GitHub because of large file size limitations.
 
+📦 Download Trained Model
+
+👉 You can download the trained model from here:
+
+https://drive.google.com/file/d/14K3DxQ8kYRLMF8Ch6cqQAI3PIWeiLNFV/view?usp=drive_link
+
+After downloading, place it inside:
+
+model/model.h5
+
+This ensures the project runs correctly after cloning.
+
 ---
 
 # 📄 .gitignore Configuration
